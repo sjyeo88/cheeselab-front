@@ -1,3 +1,5 @@
 export const environment = {
-  production: true
+  production: true,
+  defaultTitle: '영어면접 단기완성 - '
+
 };
